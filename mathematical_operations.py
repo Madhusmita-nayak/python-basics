@@ -1,0 +1,10 @@
+a=int(input("Enter any number:"))
+b=int(input("Enter any number:"))
+
+print("The sum is=",a+b)
+print("The diferrence is=",a-b)
+print("The multiplication is=",a*b)
+print("The division is=",a/b)
+print("The flooring is=",a//b)
+print("The modulous is=",a%b)
+print("The exponent is=",a**b)
